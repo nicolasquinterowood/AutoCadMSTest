@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("DockerPrueba 1"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0af277326903dd6121c6c70ac239b77ea784f14"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("DockerPrueba 1"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("DockerPrueba 1"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

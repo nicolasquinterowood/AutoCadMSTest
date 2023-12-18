@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DockerPrueba_1
-build_property.ProjectDir = C:\Users\nicolas.quintero\Desktop\Development\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\
+build_property.ProjectDir = C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

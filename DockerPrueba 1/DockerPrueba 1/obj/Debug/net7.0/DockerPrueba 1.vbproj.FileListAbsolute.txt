@@ -12,3 +12,22 @@ C:\Users\nicolas.quintero\source\repos\DockerPrueba 1\DockerPrueba 1\obj\Debug\n
 C:\Users\nicolas.quintero\source\repos\DockerPrueba 1\DockerPrueba 1\obj\Debug\net7.0\DockerPrueba 1.pdb
 C:\Users\nicolas.quintero\source\repos\DockerPrueba 1\DockerPrueba 1\obj\Debug\net7.0\DockerPrueba 1.genruntimeconfig.cache
 C:\Users\nicolas.quintero\source\repos\DockerPrueba 1\DockerPrueba 1\obj\Debug\net7.0\ref\DockerPrueba 1.dll
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\bin\Debug\net7.0\DockerPrueba 1.exe
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\bin\Debug\net7.0\DockerPrueba 1.deps.json
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\bin\Debug\net7.0\DockerPrueba 1.runtimeconfig.json
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\bin\Debug\net7.0\DockerPrueba 1.dll
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\bin\Debug\net7.0\DockerPrueba 1.pdb
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\bin\Debug\net7.0\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\bin\Debug\net7.0\Autodesk.AutoCAD.Interop.dll
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\obj\Debug\net7.0\DockerPrueba 1.vbproj.AssemblyReference.cache
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\obj\Debug\net7.0\DockerPrueba 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\obj\Debug\net7.0\DockerPrueba 1.AssemblyInfoInputs.cache
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\obj\Debug\net7.0\DockerPrueba 1.AssemblyInfo.vb
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\obj\Debug\net7.0\DockerPrueba 1.vbproj.CoreCompileInputs.cache
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\obj\Debug\net7.0\DockerPrueba 1.sourcelink.json
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\obj\Debug\net7.0\DockerPrueba 1.vbproj.CopyComplete
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\obj\Debug\net7.0\DockerPrueba 1.dll
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\obj\Debug\net7.0\refint\DockerPrueba 1.dll
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\obj\Debug\net7.0\DockerPrueba 1.pdb
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\obj\Debug\net7.0\DockerPrueba 1.genruntimeconfig.cache
+C:\Users\sebastian.marino\Documents\GitHub\AutoCadMSTest\DockerPrueba 1\DockerPrueba 1\obj\Debug\net7.0\ref\DockerPrueba 1.dll

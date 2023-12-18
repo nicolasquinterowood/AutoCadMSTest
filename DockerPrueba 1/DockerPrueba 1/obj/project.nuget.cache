@@ -1,8 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "bvj6YE8O2oXRYHbyImEmKHAVJu2idxQy303+BSv7PjkkwW5oyiX8wwIlMZ3RQfV7NA4Z6B9qgFVRTyCL3SseoQ==",
+  "dgSpecHash": "F7p2zLowrF3OQukAnJFqPTS8mWhdxHSavRnnuzpdZFPwpMKNeCrJszXZ5RHmVe3EUv303hT1ss/YJwoD/rwQ2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicolas.quintero\\Desktop\\Development\\AutoCadMSTest\\DockerPrueba 1\\DockerPrueba 1\\DockerPrueba 1.vbproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "projectFilePath": "C:\\Users\\sebastian.marino\\Documents\\GitHub\\AutoCadMSTest\\DockerPrueba 1\\DockerPrueba 1\\DockerPrueba 1.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebastian.marino\\.nuget\\packages\\autocad.net.interop\\2023.24.2.53\\autocad.net.interop.2023.24.2.53.nupkg.sha512",
+    "C:\\Users\\sebastian.marino\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sebastian.marino\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sebastian.marino\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sebastian.marino\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AutoCAD.NET.Interop 2023.24.2.53' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AutoCAD.NET.Interop",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

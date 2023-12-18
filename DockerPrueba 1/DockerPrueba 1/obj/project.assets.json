@@ -1,30 +1,60 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "AutoCAD.NET.Interop/2023.24.2.53": {
+        "type": "package",
+        "compile": {
+          "lib/net48/Autodesk.AutoCAD.Interop.Common.dll": {},
+          "lib/net48/Autodesk.AutoCAD.Interop.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Autodesk.AutoCAD.Interop.Common.dll": {},
+          "lib/net48/Autodesk.AutoCAD.Interop.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AutoCAD.NET.Interop/2023.24.2.53": {
+      "sha512": "uwbJsw/8959cbVXWbP7IhfwV7iKQy5n797fY4mf9NxEEAu+lRetQ7KJ+gjiQCoLWMfbtObau/LPh4U+wsbSWUg==",
+      "type": "package",
+      "path": "autocad.net.interop/2023.24.2.53",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "AutoCAD.png",
+        "LICENSE.txt",
+        "autocad.net.interop.2023.24.2.53.nupkg.sha512",
+        "autocad.net.interop.nuspec",
+        "lib/net48/Autodesk.AutoCAD.Interop.Common.dll",
+        "lib/net48/Autodesk.AutoCAD.Interop.dll"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "AutoCAD.NET.Interop >= 2023.24.2.53"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\nicolas.quintero\\.nuget\\packages\\": {},
+    "C:\\Users\\sebastian.marino\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicolas.quintero\\Desktop\\Development\\AutoCadMSTest\\DockerPrueba 1\\DockerPrueba 1\\DockerPrueba 1.vbproj",
+      "projectUniqueName": "C:\\Users\\sebastian.marino\\Documents\\GitHub\\AutoCadMSTest\\DockerPrueba 1\\DockerPrueba 1\\DockerPrueba 1.vbproj",
       "projectName": "DockerPrueba 1",
-      "projectPath": "C:\\Users\\nicolas.quintero\\Desktop\\Development\\AutoCadMSTest\\DockerPrueba 1\\DockerPrueba 1\\DockerPrueba 1.vbproj",
-      "packagesPath": "C:\\Users\\nicolas.quintero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicolas.quintero\\Desktop\\Development\\AutoCadMSTest\\DockerPrueba 1\\DockerPrueba 1\\obj\\",
+      "projectPath": "C:\\Users\\sebastian.marino\\Documents\\GitHub\\AutoCadMSTest\\DockerPrueba 1\\DockerPrueba 1\\DockerPrueba 1.vbproj",
+      "packagesPath": "C:\\Users\\sebastian.marino\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sebastian.marino\\Documents\\GitHub\\AutoCadMSTest\\DockerPrueba 1\\DockerPrueba 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\nicolas.quintero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sebastian.marino\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -51,6 +81,12 @@
     "frameworks": {
       "net7.0": {
         "targetAlias": "net7.0",
+        "dependencies": {
+          "AutoCAD.NET.Interop": {
+            "target": "Package",
+            "version": "[2023.24.2.53, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -62,13 +98,43 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AutoCAD.NET.Interop 2023.24.2.53' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AutoCAD.NET.Interop",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
